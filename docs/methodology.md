@@ -563,9 +563,5 @@ It will be updated as new evidence, experiments and research findings become ava
 
 The objective is to maintain a transparent record of how Ichara AI Tchad evolves from an initial concept into a validated prototype.
 
-
-### Dans GitHub
-
-**Nom du fichier :**
 ```text
-docs/methodology.md
+docs/methodolog
