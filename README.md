@@ -121,7 +121,7 @@ Speech output will be explored progressively after the recognition system has be
 
 ---
 
-# 🔬 Research Approach
+#  Research Approach
 
 The project will follow an incremental research methodology.
 
@@ -157,7 +157,7 @@ The goal is to understand whether such a system can become **useful, reliable an
 
 ---
 
-# 🧠 Artificial Intelligence Pipeline
+#  Artificial Intelligence Pipeline
 
 The initial technical pipeline may use hand landmarks rather than directly processing raw images.
 
@@ -406,7 +406,7 @@ Current stage:
 
 ---
 
-# 🗺️ Roadmap
+#  Roadmap
 
 ### Phase 1 — Research
 
@@ -454,7 +454,7 @@ Current stage:
 
 ---
 
-# 🤝 Collaboration
+#  Collaboration
 
 Ichara AI Tchad is intended to become an open and research-oriented project.
 
@@ -474,7 +474,7 @@ The project especially values contributions that improve **technical quality, ac
 
 ---
 
-# 📚 Research Documentation
+#  Research Documentation
 
 As the project progresses, this repository may contain:
 
@@ -493,7 +493,7 @@ Scientific results will only be documented after actual experimentation.
 
 ---
 
-# 📁 Planned Repository Structure
+#  Planned Repository Structure
 
 ```text
 ichara-ai-tchad/
@@ -529,9 +529,9 @@ ichara-ai-tchad/
 
 ---
 
-# 👩🏽‍💻 Author
+#  Author
 
-**Ahlam Brahim**
+**Ahlam Brahim Mahamat Défa**
 
 Computer Science & Artificial Intelligence
 
@@ -539,12 +539,12 @@ Chad 🇹🇩
 
 ---
 
-# 🌟 Vision
+#  Vision
 
 > **A communication barrier should not become a barrier to independence.**
 
 Ichara AI Tchad explores how Artificial Intelligence can help make communication more accessible, practical and inclusive.
 
-### 🇹🇩🤟 Ichara AI Tchad
+### 🇹🇩 Ichara AI Tchad
 
 **AI for Inclusive Communication.**
